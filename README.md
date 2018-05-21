@@ -36,3 +36,8 @@
 - `git add [file name]` - will add individual file to staging
 - `git add -A` - will add all files to staging
 - `git add .` - same as above
+**git commit** -> takes staged files and creates save point / commit number
+-`git commit -m 'enter in MEANINGFUL commit message'`
+**git log** -> shows full log of all commits to master branch
+**git checkout** -> creates a new branch 
+- `git checkout -b [branch name]` - creates a new branch ad switches to that branch
